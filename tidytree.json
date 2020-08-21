@@ -1,8 +1,8 @@
 {
-    "name": "生物医药",
+    "name": "root",
     "children": [
         {
-            "name": "研发及原材料供应",
+            "name": "stem1",
             "children": [
                 {
                     "name": "医药研发",
