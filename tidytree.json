@@ -5,31 +5,31 @@
             "name": "stem1",
             "children": [
                 {
-                    "name": "医药研发",
+                    "name": "stem_1_1",
                     "children": [
                         {
-                            "name": "应用生物组学",
+                            "name": "leaf1",
                             "value": 3938
                         },
                         {
-                            "name": "医疗信息学",
+                            "name": "leaf2",
                             "value": 3812
                         },
                         {
-                            "name": "精准医学",
+                            "name": "leaf3",
                             "value": 6714
                         }
                     ]
                 },
                 {
-                    "name": "原材料供应",
+                    "name": "stem_1_2",
                     "children": [
                         {
-                            "name": "原料药",
+                            "name": "leaf4",
                             "value": 3534
                         },
                         {
-                            "name": "医药中间体",
+                            "name": "leaf5",
                             "value": 5731
                         }
                     ]
@@ -37,54 +37,54 @@
             ]
         },
         {
-            "name": "制造和流通",
+            "name": "stem2",
             "children": [
                 {
-                    "name": "医药制造",
+                    "name": "stem_2_1",
                     "children": [
                         {
-                            "name": "新型化学药品制剂",
+                            "name": "leaf6",
                             "value": 1983
                         },
                         {
-                            "name": "中药衍生品",
+                            "name": "leaf7",
                             "value": 2047
                         },
                         {
-                            "name": "中药制品",
+                            "name": "leaf8",
                             "value": 1375
                         },
                         {
-                            "name": "中药改良型新药",
+                            "name": "leaf9",
                             "value": 8746
                         },
                         {
-                            "name": "生物医学材料",
+                            "name": "leaf10",
                             "value": 2202
                         } 
                     ]
                 } ,
                 {
-                    "name": "器械制造",
+                    "name": "stem_2_2",
                     "children": [
                         {
-                            "name": "诊断诊疗设备",
+                            "name": "leaf11",
                             "value": 1983
                         },
                         {
-                            "name": "重大诊疗设备",
+                            "name": "leaf12",
                             "value": 2047
                         },
                         {
-                            "name": "康复设备",
+                            "name": "leaf13",
                             "value": 1375
                         },
                         {
-                            "name": "医药耗材/植入器械",
+                            "name": "leaf14",
                             "value": 8746
                         },
                         {
-                            "name": "医药穿戴设备",
+                            "name": "leaf15",
                             "value": 2202
                         } 
                     ]
@@ -92,59 +92,59 @@
             ]
         },
         {
-            "name": "医疗健康服务",
+            "name": "stem3",
             "children": [
                 {
-                    "name": "医疗健康服务",
+                    "name": "stem_3_1",
                     "children": [
                         {
-                            "name": "体检/健康管理",
+                            "name": "leaf16",
                             "value": 721
                         },
                         {
-                            "name": "精准医疗",
+                            "name": "leaf17",
                             "value": 4294
                         },
                         {
-                            "name": "医疗美容",
+                            "name": "leaf18",
                             "value": 9800
                         },
                         {
-                            "name": "高端健康医疗",
+                            "name": "leaf19",
                             "value": 1314
                         }
                     ]
                 },
                 {
-                    "name": "保险金融",
+                    "name": "stem_3_2",
                     "children": [
                         {
-                            "name": "健康产品",
+                            "name": "leaf20",
                             "value": 721
                         },
                         {
-                            "name": "金融产品",
+                            "name": "leaf21",
                             "value": 4294
                         }
                     ]
                 },
                 {
-                    "name": "信息服务",
+                    "name": "stem_3_3",
                     "children": [
                         {
-                            "name": "HIS",
+                            "name": "leaf22",
                             "value": 721
                         },
                         {
-                            "name": "医药应用开发",
+                            "name": "leaf23",
                             "value": 4294
                         },
                         {
-                            "name": "健康大数据",
+                            "name": "leaf24",
                             "value": 9800
                         },
                         {
-                            "name": "人工智能",
+                            "name": "leaf25",
                             "value": 1314
                         }
                     ]
